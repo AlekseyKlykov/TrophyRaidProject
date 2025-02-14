@@ -44,6 +44,14 @@ public OptionalControlPointBuilder createOptionalControlPoint() - возвращ
 public void Start() - запускает "гонку" и производит вычисления связанные с затраченным временем машин-участников;<br>
 public void displayResult() - выводит на экран информацию каждой машины-участника(с затраченным временем);<br>
 public void displayWinner() - выводит на экран победителя;<br>
+А также содержит:
+private List<iCar> car - содержит список объектов машин-участников;
+private List<ControlPoint> cp - содержит список объектов КП;
+
+Пример инициализации объекта  машины-участника с помощью "строителя":<br>
+![image](https://github.com/user-attachments/assets/8f7228d5-fc8e-43b0-b835-5b6aa776af30)
+Пример клонирования объекта:<br>
+![image](https://github.com/user-attachments/assets/1fddc0e9-79c4-40bf-8956-75c6c964ff41)
 
 
 <h4>
