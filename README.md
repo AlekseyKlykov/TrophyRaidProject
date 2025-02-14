@@ -53,6 +53,10 @@ private List<ControlPoint> cp - содержит список объектов �
 Пример клонирования объекта:<br>
 ![image](https://github.com/user-attachments/assets/1fddc0e9-79c4-40bf-8956-75c6c964ff41)
 
+Вывод работы программы:
+
+![image](https://github.com/user-attachments/assets/7cfe161f-7449-4b25-a161-d0275595642f)
+
 
 <h4>
 
